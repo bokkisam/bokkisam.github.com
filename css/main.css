@@ -7,10 +7,9 @@ p {
 }
 
 .div_class {
-	background-color: brown;
+	color: brown;
 }
 
 #div_id {
-	background-color: blue;
-
+	color: blue;
 }
