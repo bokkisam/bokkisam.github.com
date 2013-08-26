@@ -5,3 +5,12 @@ body {
 p {
 	color: green;
 }
+
+.div_class {
+	background-color: brown;
+}
+
+#div_id {
+	background-color: blue;
+
+}
