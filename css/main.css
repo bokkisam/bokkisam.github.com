@@ -13,3 +13,7 @@ p {
 #div_id {
 	color: blue;
 }
+
+.border {
+    border: 0px solid blue;
+}
